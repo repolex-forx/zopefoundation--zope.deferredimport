@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "zope.deferredimport",
+  "versions": [
+    {
+      "commit": "89517da3bdaa546e81d7e2da01368554b8eb1640",
+      "tag": "",
+      "parsed_at": "2026-11-06T01:25:32.148248+00:00"
+    }
+  ]
+}
