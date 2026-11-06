@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zopefoundation/zope.deferredimport/commit/89517da3bdaa546e81d7e2da01368554b8eb1640",
       "git:hexsha": "89517da3bdaa546e81d7e2da01368554b8eb1640",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/zopefoundation/zope.deferredimport/commit/9288303dde95b57460a2ca8c76b984b2e2191853",
