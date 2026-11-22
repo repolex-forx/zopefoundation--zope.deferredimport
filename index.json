@@ -3,6 +3,11 @@
   "repo": "zope.deferredimport",
   "versions": [
     {
+      "commit": "18251c024bcf32baec49175db68b3f095ef94388",
+      "tag": "backups/3.4@112079",
+      "parsed_at": "2026-11-22T00:38:59.412504+00:00"
+    },
+    {
       "commit": "89517da3bdaa546e81d7e2da01368554b8eb1640",
       "tag": "",
       "parsed_at": "2026-11-06T01:25:32.148248+00:00"
